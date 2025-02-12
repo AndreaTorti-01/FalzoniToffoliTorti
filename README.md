@@ -1,3 +1,11 @@
-RASD https://www.overleaf.com/read/jrqgdxpwvxnw#083dc9
+# Software Engineering 2 RASD&DD project - Politecnico di Milano, A.Y. 2024/25
 
-DD https://www.overleaf.com/read/zhpnmpyfdqcc#2e66d9
+The project consists of two assignments: the preparation of a Requirement Analysis and Specification Document (RASD) for a given problem and the definition of the Design Document (DD) for the considered system.
+
+## Authors
+
+- Elia Falzoni
+- Andrea Toffoli
+- Andrea Torti
+
+_Score: 12.3/14_
